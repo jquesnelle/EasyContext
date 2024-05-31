@@ -12,7 +12,7 @@ setup(
     version="0.1",
     packages=["easy_context"],
     install_requires=install_requires,
-    url='https://github.com/jzhang38/EasyContext/
+    url='https://github.com/jzhang38/EasyContext/',
     license='Apache License 2.0',
     classifiers=[
         "Programming Language :: Python :: 3",
